@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="num1">Число 1</string>
+    <string name="num2">Число 2</string>
+    <string name="sum">+</string>
+    <string name="min">-</string>
+    <string name="umn">*</string>
+    <string name="del">/</string>
+
+</resources>
